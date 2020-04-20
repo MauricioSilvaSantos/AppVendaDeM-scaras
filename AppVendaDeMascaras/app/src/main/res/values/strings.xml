@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">App Venda de Máscaras</string>
+    <string name="msgTituloInicial">O uso das máscaras diminui a chance de contágio pelo novo coronavírus, Compre a sua Aqui!</string>
+    <string name="msgName">Informe Seu Nome!</string>
+    <string name="btnMsg">Click aqui Para ver as opçês de maścars</string>
+    <string name="msgTitulo">Titulo</string>
+    <string name="msgDescricao">Descrição</string>
+    <string name="msginforme" >Quant desejada ? </string>
+    <string name="btnCalculo">Calcular Valor</string>
 </resources>

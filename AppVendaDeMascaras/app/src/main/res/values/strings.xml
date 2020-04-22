@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name">App Venda de Máscaras</string>
     <string name="msgTituloInicial">O uso das máscaras diminui a chance de contágio pelo novo coronavírus, Compre a sua Aqui!</string>
-    <string name="msgName">Informe Seu Nome!</string>
     <string name="btnMsg">Click aqui Para ver as opçês de maścars</string>
     <string name="msgTitulo">Titulo</string>
-    <string name="msgDescricao">Descrição</string>
+    <string name="msgDescricao">Descrição: </string>
     <string name="msginforme" >Quant desejada ? </string>
     <string name="btnCalculo">Calcular Valor</string>
+    <string name="img">Imagem Layout</string>
+    <string name="img1">Imgaem1</string>
+    <string name="msgResultado">Resultado</string>
+    <string name="msgValor">  Máscaras Avulsas Valor por unidade: R$ 5,00</string>
+    <string name="msgName">Informe seu nome!</string>
+    <string name="msgmenssagen">Para mais informais sobre o Covid-19, Click no button!!</string>
 </resources>
